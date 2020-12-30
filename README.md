@@ -8,12 +8,12 @@ This project was bootstrapped with [Create Next App](https://github.com/segmenti
 
 Given this project deploy it to AWS preferable in an automated and reproducible fashion. The website should be reachable from all over the world.
 
-* http://website-breaches-bucket.s3-website.eu-central-1.amazonaws.com
+* do2s2yqmx7ku5.cloudfront.net
 ## Task 2 -  
 
 Adjust the solution to restrict access to the website by using mechanisms that can be adapted programmatically.
 
-* Mentioned in documentation
+* Mentioned in documentation done using cloudfront user via Origin Access Identity. Settings can be adapted making changed via terraform in the following repo: https://github.com/itsayeshanaeem/Website-Breaches-IAC
 
 ## Task 3  
 
