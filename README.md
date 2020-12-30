@@ -8,12 +8,12 @@ This project was bootstrapped with [Create Next App](https://github.com/segmenti
 
 Given this project deploy it to AWS preferable in an automated and reproducible fashion. The website should be reachable from all over the world.
 
-* http://website-breaches.s3-website.eu-central-1.amazonaws.com/
+* http://website-breaches-bucket.s3-website.eu-central-1.amazonaws.com
 ## Task 2 -  
 
 Adjust the solution to restrict access to the website by using mechanisms that can be adapted programmatically.
 
-* The access can be managed by doing changes in Iac repo for s3 bucket
+* Mentioned in documentation
 
 ## Task 3  
 
